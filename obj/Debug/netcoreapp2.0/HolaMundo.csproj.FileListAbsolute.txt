@@ -1,10 +1,20 @@
-d:\Otros chunches\Asp.Net\HolaMundo\bin\Debug\netcoreapp2.0\HolaMundo.deps.json
-d:\Otros chunches\Asp.Net\HolaMundo\bin\Debug\netcoreapp2.0\HolaMundo.runtimeconfig.json
-d:\Otros chunches\Asp.Net\HolaMundo\bin\Debug\netcoreapp2.0\HolaMundo.runtimeconfig.dev.json
-d:\Otros chunches\Asp.Net\HolaMundo\bin\Debug\netcoreapp2.0\HolaMundo.dll
-d:\Otros chunches\Asp.Net\HolaMundo\bin\Debug\netcoreapp2.0\HolaMundo.pdb
-d:\Otros chunches\Asp.Net\HolaMundo\obj\Debug\netcoreapp2.0\HolaMundo.csproj.CoreCompileInputs.cache
-d:\Otros chunches\Asp.Net\HolaMundo\obj\Debug\netcoreapp2.0\HolaMundo.AssemblyInfoInputs.cache
-d:\Otros chunches\Asp.Net\HolaMundo\obj\Debug\netcoreapp2.0\HolaMundo.AssemblyInfo.cs
-d:\Otros chunches\Asp.Net\HolaMundo\obj\Debug\netcoreapp2.0\HolaMundo.dll
-d:\Otros chunches\Asp.Net\HolaMundo\obj\Debug\netcoreapp2.0\HolaMundo.pdb
+d:/Otros chunches/Asp.Net/HolaMundo/bin/Debug/netcoreapp2.0/HolaMundo.deps.json
+d:/Otros chunches/Asp.Net/HolaMundo/bin/Debug/netcoreapp2.0/HolaMundo.runtimeconfig.json
+d:/Otros chunches/Asp.Net/HolaMundo/bin/Debug/netcoreapp2.0/HolaMundo.runtimeconfig.dev.json
+d:/Otros chunches/Asp.Net/HolaMundo/bin/Debug/netcoreapp2.0/HolaMundo.dll
+d:/Otros chunches/Asp.Net/HolaMundo/bin/Debug/netcoreapp2.0/HolaMundo.pdb
+d:/Otros chunches/Asp.Net/HolaMundo/obj/Debug/netcoreapp2.0/HolaMundo.csproj.CoreCompileInputs.cache
+d:/Otros chunches/Asp.Net/HolaMundo/obj/Debug/netcoreapp2.0/HolaMundo.AssemblyInfoInputs.cache
+d:/Otros chunches/Asp.Net/HolaMundo/obj/Debug/netcoreapp2.0/HolaMundo.AssemblyInfo.cs
+d:/Otros chunches/Asp.Net/HolaMundo/obj/Debug/netcoreapp2.0/HolaMundo.dll
+d:/Otros chunches/Asp.Net/HolaMundo/obj/Debug/netcoreapp2.0/HolaMundo.pdb
+/run/media/keepercito/Chunches 2.0/Otros chunches/Asp.Net/HolaMundo/bin/Debug/netcoreapp2.0/HolaMundo.deps.json
+/run/media/keepercito/Chunches 2.0/Otros chunches/Asp.Net/HolaMundo/bin/Debug/netcoreapp2.0/HolaMundo.runtimeconfig.json
+/run/media/keepercito/Chunches 2.0/Otros chunches/Asp.Net/HolaMundo/bin/Debug/netcoreapp2.0/HolaMundo.runtimeconfig.dev.json
+/run/media/keepercito/Chunches 2.0/Otros chunches/Asp.Net/HolaMundo/bin/Debug/netcoreapp2.0/HolaMundo.dll
+/run/media/keepercito/Chunches 2.0/Otros chunches/Asp.Net/HolaMundo/bin/Debug/netcoreapp2.0/HolaMundo.pdb
+/run/media/keepercito/Chunches 2.0/Otros chunches/Asp.Net/HolaMundo/obj/Debug/netcoreapp2.0/HolaMundo.csproj.CoreCompileInputs.cache
+/run/media/keepercito/Chunches 2.0/Otros chunches/Asp.Net/HolaMundo/obj/Debug/netcoreapp2.0/HolaMundo.AssemblyInfoInputs.cache
+/run/media/keepercito/Chunches 2.0/Otros chunches/Asp.Net/HolaMundo/obj/Debug/netcoreapp2.0/HolaMundo.AssemblyInfo.cs
+/run/media/keepercito/Chunches 2.0/Otros chunches/Asp.Net/HolaMundo/obj/Debug/netcoreapp2.0/HolaMundo.dll
+/run/media/keepercito/Chunches 2.0/Otros chunches/Asp.Net/HolaMundo/obj/Debug/netcoreapp2.0/HolaMundo.pdb
