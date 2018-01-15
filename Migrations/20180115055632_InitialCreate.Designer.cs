@@ -11,7 +11,7 @@ using System;
 namespace HolaMundo.Migrations
 {
     [DbContext(typeof(HolaMundoContext))]
-    [Migration("20180114211355_InitialCreate")]
+    [Migration("20180115055632_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -28,6 +28,8 @@ namespace HolaMundo.Migrations
                     b.Property<string>("Genre");
 
                     b.Property<decimal>("Price");
+
+                    b.Property<string>("Rating");
 
                     b.Property<DateTime>("ReleaseDate");
 

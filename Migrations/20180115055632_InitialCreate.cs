@@ -16,6 +16,7 @@ namespace HolaMundo.Migrations
                         .Annotation("Sqlite:Autoincrement", true),
                     Genre = table.Column<string>(nullable: true),
                     Price = table.Column<decimal>(nullable: false),
+                    Rating = table.Column<string>(nullable: true),
                     ReleaseDate = table.Column<DateTime>(nullable: false),
                     Title = table.Column<string>(nullable: true)
                 },
